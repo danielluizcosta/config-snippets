@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/s029132849/scripts/rede/priorizar-conexoes.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Priorizar Conexões de Rede
+Comment=Define prioridades entre interfaces na sessão
+

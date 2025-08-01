@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -c "/home/s029132849/scripts/maquina-serpro/no-screen-lock.sh && sleep 300 && /home/s029132849/scripts/maquina-serpro/no-screen-lock.sh && sleep 300 && /home/s029132849/scripts/maquina-serpro/no-screen-lock.sh && sleep 300 && /home/s029132849/scripts/maquina-serpro/no-screen-lock.sh"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Desativar Bloqueio de Tela
+Comment=Desativa o bloqueio e escurecimento automático da tela no login
